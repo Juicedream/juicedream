@@ -20,7 +20,8 @@ I'm a *Full-Stack Developer* passionate about building *modern, scalable web app
 A *social media platform* where users can post, like, and comment.  
 *Technologies:* React.js, TypeScript, Node.js, MongoDB  
 *Highlights:* Real-time feed, responsive design, JWT authentication.  
-![Screenshot](https://link-to-screenshot.com/showmee.png)  
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -28,7 +29,8 @@ A *social media platform* where users can post, like, and comment.
 An *AI-powered content generation tool* for social media and blogs.  
 *Technologies:* Next.js, TypeScript, OpenAI API  
 *Highlights:* Generates posts, blogs, and captions in seconds with clean UI.  
-![Screenshot](https://link-to-screenshot.com/contentgen.png)  
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -36,7 +38,8 @@ An *AI-powered content generation tool* for social media and blogs.
 A *full-stack marketplace* for multiple sellers with product management and checkout.  
 *Technologies:* React.js, Node.js, PostgreSQL, Stripe API  
 *Highlights:* Real-time inventory, payment integration, responsive layout.  
-![Screenshot](https://link-to-screenshot.com/ecommerce.png)  
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -49,9 +52,9 @@ A *full-stack marketplace* for multiple sellers with product management and chec
 
 ## 📫 Contact Me
 
-•⁠  ⁠*Email:* juicedream@example.com  
-•⁠  ⁠*LinkedIn:* [linkedin.com/in/juicedream](https://linkedin.com/in/juicedream)  
-•⁠  ⁠*Portfolio:* [juicedream.dev](https://juicedream.dev)  
+•⁠  ⁠*Email:* jude.nwadiogor.dev@gmail.com  / judexfrayo@gmail.com
+•⁠  ⁠*LinkedIn:* [linkedin.com/in/jude-nwadiogor-840608221](https://linkedin.com/in/jude-nwadiogor-840608221)  
+•
 
 ---
 
