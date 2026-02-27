@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JuiceDream  
+# 👋 Hi, I'm Jude Nwadiogor  
 
 I'm a *Full-Stack Developer* passionate about building *modern, scalable web applications* and financial systems using **React.js, Next.js, TypeScript, JavaScript, and Node.js**.  
 
@@ -48,7 +48,7 @@ A *full-stack marketplace* for multiple sellers with product management and chec
 
 ---
 
-### 4. BlinkPay Mobile App 💳  
+### 4. [BlinkPay Mobile App 💳](https://github.com/Juicedream/blink-pay-mobile-app) 
 A *mobile digital wallet application* for seamless transfers, payments, and wallet management.  
 **Technologies:** React Native, Node.js, Express, MongoDB  
 **Highlights:**  
