@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jude Nwadiogor  
 
-I'm a *Full-Stack Developer* passionate about building *modern, scalable web applications* and financial systems using **React.js, Next.js, TypeScript, JavaScript, and Node.js**.  
+I'm a *Full-Stack Developer* passionate about building *modern, scalable web applications* and financial systems using **React.js, React Native, Next.js, TypeScript, JavaScript, and Node.js**.  
 
 I love creating solutions that are functional, secure, and user-friendly.
 
