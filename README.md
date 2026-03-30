@@ -9,7 +9,7 @@ I love creating solutions that are functional, secure, and user-friendly.
 ## 💻 Tech Stack  
 
 **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript, React Native  
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js, Express.js, Nest.js 
 **Database:** MongoDB, PostgreSQL  
 **Tools & Platforms:** Git, GitHub, Vercel, Docker, VS Code  
 **Other:** REST APIs, GraphQL, JWT Authentication, CI/CD basics, Payment Integrations  
